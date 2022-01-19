@@ -1,0 +1,161 @@
+                                                                                         antecedents  \
+6017                                      (Fish_segment_High Consumer, Sweets_segment_High Consumer)   
+11733               (Fish_segment_High Consumer, Meat_segment_High Consumer, Education_Postgraduate)   
+6004                                        (Fish_segment_High Consumer, Meat_segment_High Consumer)   
+6011                                      (Meat_segment_High Consumer, Sweets_segment_High Consumer)   
+5743                                        (Income_group_High Income, Sweets_segment_High Consumer)   
+5208                                                 (Fish_segment_High Consumer, Children_No child)   
+15376                            (Fish_segment_High Consumer, Children_No child, Has_child_No child)   
+4806                                                (Fish_segment_High Consumer, Has_child_No child)   
+2423                                            (Fish_segment_High Consumer, Education_Postgraduate)   
+682                                                                     (Fish_segment_High Consumer)   
+5736                                          (Fish_segment_High Consumer, Income_group_High Income)   
+685                                                                   (Sweets_segment_High Consumer)   
+2429                                          (Education_Postgraduate, Sweets_segment_High Consumer)   
+10414                        (Meat_segment_High Consumer, Children_No child, Education_Postgraduate)   
+21166    (Meat_segment_High Consumer, Children_No child, Has_child_No child, Education_Postgraduate)   
+9764                        (Meat_segment_High Consumer, Has_child_No child, Education_Postgraduate)   
+4800                                                (Meat_segment_High Consumer, Has_child_No child)   
+15362                            (Meat_segment_High Consumer, Children_No child, Has_child_No child)   
+5202                                                 (Meat_segment_High Consumer, Children_No child)   
+2417                                            (Meat_segment_High Consumer, Education_Postgraduate)   
+11265                 (Meat_segment_High Consumer, Income_group_High Income, Education_Postgraduate)   
+9681                          (Income_group_High Income, Has_child_No child, Education_Postgraduate)   
+10330                          (Income_group_High Income, Children_No child, Education_Postgraduate)   
+20986      (Income_group_High Income, Children_No child, Has_child_No child, Education_Postgraduate)   
+680                                                                     (Meat_segment_High Consumer)   
+15488                     (Meat_segment_High Consumer, Income_group_High Income, Has_child_No child)   
+15810                      (Meat_segment_High Consumer, Income_group_High Income, Children_No child)   
+23800  (Meat_segment_High Consumer, Income_group_High Income, Children_No child, Has_child_No child)   
+5730                                          (Meat_segment_High Consumer, Income_group_High Income)   
+5166                                                   (Income_group_High Income, Children_No child)   
+4764                                                  (Income_group_High Income, Has_child_No child)   
+15278                              (Income_group_High Income, Children_No child, Has_child_No child)   
+3428                                          (Meat_segment_High Consumer, Marital_Status_In couple)   
+2019                                              (Income_group_High Income, Education_Postgraduate)   
+526                                                                       (Income_group_High Income)   
+3266                                            (Income_group_High Income, Marital_Status_In couple)   
+362                                                                         (Cluster_High potential)   
+1152                                                    (Has_child_No child, Education_Postgraduate)   
+1384                                                     (Children_No child, Education_Postgraduate)   
+9532                                 (Children_No child, Has_child_No child, Education_Postgraduate)   
+1607                                                (Cluster_High potential, Education_Postgraduate)   
+2437                                            (Gold_segment_High Consumer, Education_Postgraduate)   
+686                                                                     (Gold_segment_High Consumer)   
+190                                                                             (Has_child_No child)   
+4686                                                         (Children_No child, Has_child_No child)   
+280                                                                              (Children_No child)   
+391                                                                           (Cluster_Leaky bucket)   
+644                                                                    (Wines_segment_High Consumer)   
+2321                                           (Wines_segment_High Consumer, Education_Postgraduate)   
+33                                                                          (Education_Postgraduate)   
+502                                                                               (Age_group_Mature)   
+624                                                                (Wines_segment_Frequent Consumer)   
+
+                          consequents  antecedent support  consequent support  \
+6017   (Fruits_segment_High Consumer)               0.126               0.203   
+11733  (Fruits_segment_High Consumer)               0.132               0.203   
+6004   (Fruits_segment_High Consumer)               0.146               0.203   
+6011   (Fruits_segment_High Consumer)               0.137               0.203   
+5743   (Fruits_segment_High Consumer)               0.129               0.203   
+5208   (Fruits_segment_High Consumer)               0.133               0.203   
+15376  (Fruits_segment_High Consumer)               0.133               0.203   
+4806   (Fruits_segment_High Consumer)               0.133               0.203   
+2423   (Fruits_segment_High Consumer)               0.183               0.203   
+682    (Fruits_segment_High Consumer)               0.207               0.203   
+5736   (Fruits_segment_High Consumer)               0.139               0.203   
+685    (Fruits_segment_High Consumer)               0.200               0.203   
+2429   (Fruits_segment_High Consumer)               0.177               0.203   
+10414  (Fruits_segment_High Consumer)               0.163               0.203   
+21166  (Fruits_segment_High Consumer)               0.163               0.203   
+9764   (Fruits_segment_High Consumer)               0.163               0.203   
+4800   (Fruits_segment_High Consumer)               0.179               0.203   
+15362  (Fruits_segment_High Consumer)               0.179               0.203   
+5202   (Fruits_segment_High Consumer)               0.179               0.203   
+2417   (Fruits_segment_High Consumer)               0.231               0.203   
+11265  (Fruits_segment_High Consumer)               0.176               0.203   
+9681   (Fruits_segment_High Consumer)               0.160               0.203   
+10330  (Fruits_segment_High Consumer)               0.160               0.203   
+20986  (Fruits_segment_High Consumer)               0.160               0.203   
+680    (Fruits_segment_High Consumer)               0.250               0.203   
+15488  (Fruits_segment_High Consumer)               0.150               0.203   
+15810  (Fruits_segment_High Consumer)               0.150               0.203   
+23800  (Fruits_segment_High Consumer)               0.150               0.203   
+5730   (Fruits_segment_High Consumer)               0.190               0.203   
+5166   (Fruits_segment_High Consumer)               0.174               0.203   
+4764   (Fruits_segment_High Consumer)               0.174               0.203   
+15278  (Fruits_segment_High Consumer)               0.174               0.203   
+3428   (Fruits_segment_High Consumer)               0.157               0.203   
+2019   (Fruits_segment_High Consumer)               0.231               0.203   
+526    (Fruits_segment_High Consumer)               0.250               0.203   
+3266   (Fruits_segment_High Consumer)               0.159               0.203   
+362    (Fruits_segment_High Consumer)               0.238               0.203   
+1152   (Fruits_segment_High Consumer)               0.250               0.203   
+1384   (Fruits_segment_High Consumer)               0.250               0.203   
+9532   (Fruits_segment_High Consumer)               0.250               0.203   
+1607   (Fruits_segment_High Consumer)               0.218               0.203   
+2437   (Fruits_segment_High Consumer)               0.219               0.203   
+686    (Fruits_segment_High Consumer)               0.243               0.203   
+190    (Fruits_segment_High Consumer)               0.286               0.203   
+4686   (Fruits_segment_High Consumer)               0.286               0.203   
+280    (Fruits_segment_High Consumer)               0.286               0.203   
+391    (Fruits_segment_High Consumer)               0.199               0.203   
+644    (Fruits_segment_High Consumer)               0.249               0.203   
+2321   (Fruits_segment_High Consumer)               0.235               0.203   
+33     (Fruits_segment_High Consumer)               0.885               0.203   
+502    (Fruits_segment_High Consumer)               0.413               0.203   
+624    (Fruits_segment_High Consumer)               0.496               0.203   
+
+       support  confidence  lift  leverage  conviction  
+6017     0.084       0.664 3.271     0.058       2.374  
+11733    0.085       0.645 3.177     0.058       2.245  
+6004     0.093       0.639 3.146     0.064       2.207  
+6011     0.087       0.634 3.120     0.059       2.175  
+5743     0.081       0.629 3.099     0.055       2.150  
+5208     0.082       0.619 3.048     0.055       2.092  
+15376    0.082       0.619 3.048     0.055       2.092  
+4806     0.082       0.619 3.048     0.055       2.092  
+2423     0.111       0.608 2.996     0.074       2.035  
+682      0.125       0.606 2.983     0.083       2.021  
+5736     0.084       0.604 2.974     0.056       2.012  
+685      0.119       0.596 2.935     0.079       1.972  
+2429     0.106       0.595 2.932     0.070       1.970  
+10414    0.094       0.579 2.851     0.061       1.893  
+21166    0.094       0.579 2.851     0.061       1.893  
+9764     0.094       0.579 2.851     0.061       1.893  
+4800     0.102       0.568 2.798     0.065       1.846  
+15362    0.102       0.568 2.798     0.065       1.846  
+5202     0.102       0.568 2.798     0.065       1.846  
+2417     0.129       0.557 2.741     0.082       1.797  
+11265    0.098       0.555 2.733     0.062       1.791  
+9681     0.089       0.555 2.733     0.056       1.791  
+10330    0.089       0.555 2.733     0.056       1.791  
+20986    0.089       0.555 2.733     0.056       1.791  
+680      0.138       0.552 2.720     0.087       1.780  
+15488    0.083       0.551 2.714     0.052       1.776  
+15810    0.083       0.551 2.714     0.052       1.776  
+23800    0.083       0.551 2.714     0.052       1.776  
+5730     0.104       0.548 2.697     0.065       1.762  
+5166     0.095       0.545 2.686     0.059       1.753  
+4764     0.095       0.545 2.686     0.059       1.753  
+15278    0.095       0.545 2.686     0.059       1.753  
+3428     0.084       0.536 2.640     0.052       1.718  
+2019     0.120       0.519 2.553     0.073       1.655  
+526      0.129       0.516 2.542     0.078       1.647  
+3266     0.080       0.504 2.483     0.048       1.608  
+362      0.107       0.451 2.220     0.059       1.451  
+1152     0.112       0.450 2.217     0.062       1.450  
+1384     0.112       0.450 2.217     0.062       1.450  
+9532     0.112       0.450 2.217     0.062       1.450  
+1607     0.097       0.446 2.198     0.053       1.439  
+2437     0.095       0.434 2.138     0.051       1.408  
+686      0.105       0.432 2.129     0.056       1.404  
+190      0.123       0.430 2.116     0.065       1.397  
+4686     0.123       0.430 2.116     0.065       1.397  
+280      0.123       0.430 2.116     0.065       1.397  
+391      0.083       0.415 2.043     0.042       1.362  
+644      0.101       0.407 2.002     0.051       1.343  
+2321     0.093       0.398 1.960     0.046       1.324  
+33       0.183       0.207 1.019     0.003       1.005  
+502      0.085       0.205 1.012     0.001       1.003  
+624      0.102       0.205 1.007     0.001       1.002  
