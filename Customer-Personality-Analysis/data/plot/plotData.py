@@ -3,15 +3,7 @@ Author: Siddhant Mahajani
 plotData.py - This is helpful to plot the data using matplotlib
 """
 
-import numpy as np
-import pandas as pd
-from datetime import date
 import plotly.graph_objects as go
-from sklearn.preprocessing import StandardScaler, normalize
-from sklearn.mixture import GaussianMixture
-from mlxtend.frequent_patterns import apriori
-from mlxtend.frequent_patterns import association_rules
-import warnings
 from dataprep.eda import plot
 
 
