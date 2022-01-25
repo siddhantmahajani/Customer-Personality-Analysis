@@ -19,3 +19,13 @@ Output: The output will be written in output.txt file in the customer data folde
 
 Apriori Algorithm:
 This algorithm refers to an algorithm that is used in mining frequent products sets and relevant association rules. Generally, the apriori algorithm operates on a database containing huge number of transactions. The parameters used are "Support" and "Confidence" are used. Support refers to items' frequency of occurence; confidence is a conditional probability. Items in a transaction from an item set. Example of this algorithm is customers buying a lot of goods from a grocery store, by applying this method of the algorithm the grocery stores can enhance their sales performance and could work effectively.
+
+Libraries used:
+pandas
+For mlxtend.frequent_patterns please install mlxtend
+For plotly.graph_objects install plotly
+For dataprep.eda install dataprep
+numpy
+For sklearn.preprocessing and sklearn.mixture install sklearn
+
+To install the libraries use pip install <library_name> i.e. pip install pandas.
